@@ -17,7 +17,7 @@ REDIS_DB_JOIN_LIST = int(os.getenv("REDIS_DB_JOIN_LIST", default=2))
 
 
 admins = [
-    417804053
+    1955750981
 ]
 
 ip = os.getenv("ip")

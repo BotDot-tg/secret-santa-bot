@@ -1,6 +1,3 @@
-from .help import dp
-from .testing import dp
 from .start import dp
-from .echo import dp
-
+from .send import dp
 __all__ = ["dp"]

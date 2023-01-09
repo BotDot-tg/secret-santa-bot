@@ -1,1 +1,1 @@
-from .test import Test
+from .get_message import GetMessage
